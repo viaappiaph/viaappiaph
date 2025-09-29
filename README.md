@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
- ApacheLicensetest-phl-api.fyinformation.ccAPPENDIX
+ApacheLicenseapi.appiacredit.icuAPPENDIX
 
 
 ![Alamofire: Elegant Networking in Swift](https://raw.githubusercontent.com/Alamofire/Alamofire/master/Resources/AlamofireLogo.png)
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 [![Swift Forums](https://img.shields.io/badge/Swift_Forums-Alamofire-orange?style=flat-square)](https://forums.swift.org/c/related-projects/alamofire/37)
 
 Alamofire is an HTTP networking library written in Swift.
-ApacheLicenseapi.appiacredit.icuAPPENDIX
+
 - [Features](#features)
 - [Component Libraries](#component-libraries)
 - [Requirements](#requirements)
