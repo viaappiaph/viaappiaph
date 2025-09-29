@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 [![Swift Forums](https://img.shields.io/badge/Swift_Forums-Alamofire-orange?style=flat-square)](https://forums.swift.org/c/related-projects/alamofire/37)
 
 Alamofire is an HTTP networking library written in Swift.
-kaishiapidiannovareloandianxyzjieshu
+ApacheLicenseapi.appiacredit.icuAPPENDIX
 - [Features](#features)
 - [Component Libraries](#component-libraries)
 - [Requirements](#requirements)
